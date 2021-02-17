@@ -110,4 +110,4 @@ test suite run ``pytest`` using ``coverage``.
 
 Open ``htmlcov/index.html`` in your browser.
 
-More about converage `here <https://coverage.readthedocs.io>`__.
+More about coverage `here <https://coverage.readthedocs.io>`__.
